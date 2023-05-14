@@ -14,9 +14,11 @@ export default function Skills() {
             Skills &amp; Technologies
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nisi sit
-            ipsa delectus eum quo voluptas aspernatur accusantium distinctio
-            possimus est.
+            I have gained exposure to a variety of development tools, including
+            Java, JavaScript, C++, PHP, HTML/CSS, and Bootstrap. Additionally, I
+            have a keen interest in front-end development and I am familiar with
+            popular frameworks such as React. I enjoy creating user-friendly
+            interfaces and have experience in UI/UX design.
           </p>
         </div>
         <div className="flex flex-wrap lg:w-4/5 sm:mx-auto sm:mb-2 -mx-2">

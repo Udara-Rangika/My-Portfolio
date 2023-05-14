@@ -1,60 +1,43 @@
 export const projects = [
   {
-    title: "React Reserve",
+    title: "Ecommerce Web Application",
     subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      "This is a Web Application created for a Herbal Ecommerce Site suing MERN stack. Used Stripe as the payment gateway method and Gmail's SMTP server method for send emails.",
+    image: "./project-1.png",
+    link: "https://github.com/Udara-Rangika/MERN-Ecommerce-Web-Application",
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: "AquaLife ",
+    subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      "This is a web application created for water resource management like Water Donation, Wastewater Treatment, Water Education, New Inventions related to water management.",
+    image: "./project-2.png",
+    link: "https://github.com/Udara-Rangika/AquaLife-System",
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: "Foodienator",
+    subtitle: "Java and Firebase",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      "This is an android application that was created as the final project of User Experience Engineering module using Java and Firebase for Food Wastage Management",
+    image: "./project-3.png",
+    link: "https://github.com/Udara-Rangika/Foodienator",
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: "Furniture Showroom Management System",
+    subtitle: "MERN Stack",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
-  },
-];
-
-export const testimonials = [
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
-  },
-  {
-    quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      "This is the web application that was created as the 2nd Year 2nd Semester project of Information Technology Project(ITP) module for a Furniture Showroom Management System using MERN Stack",
+    image: "./project-4.png",
+    link: "https://github.com/Udara-Rangika/Furniture-Showroom-Management-System",
   },
 ];
 
 export const skills = [
-  "JavaScript",
   "React",
-  "Next.js",
+  "Java",
+  "JavaScript",
   "Node",
-  "GraphQL",
-  "Material UI",
+  "MongoDB",
+  "HTML/CSS",
 ];
